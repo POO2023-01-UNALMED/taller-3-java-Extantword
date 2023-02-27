@@ -19,7 +19,7 @@ public class TV{
         this.canal = 1;
         this.volumen = 1;
         this.precio = 500;
-        numTV += 1;
+        TV.numTV += 1;
         
                 }
 
