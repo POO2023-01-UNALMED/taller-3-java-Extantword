@@ -83,7 +83,7 @@ public class TV{
 	}
 
 	public static void setNumTV(int numTV){
-		this.numTV = numTV;
+		TV.numTV = numTV;
 	}
 
      
