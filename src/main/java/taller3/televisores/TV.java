@@ -34,7 +34,7 @@ public class TV{
     }
 
 	public boolean getEstado(){
-		return estado
+		return estado;
 	}	
 
 	public void setEstado(boolean estado){
